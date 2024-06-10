@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "name": "Aru",
+      "location": "India",
+      "phone": "123",
+      "courses": [
+        "Python",
+        "Appium"
+      ]
+    },
+    {
+      "name": "Kiru",
+      "location": "India",
+      "phone": "123",
+      "courses": [
+        "React",
+        "SocialS"
+      ]
+    },
+    {
+      "name": "Sharu",
+      "location": "India",
+      "phone": "1234",
+      "courses": [
+        "Angular",
+        "Appium"
+      ]
+    },
+    {
+      "name": "Navya",
+      "location": "India",
+      "phone": "1234",
+      "courses": [
+        "Angular",
+        "Appium"
+      ]
+    }
+  ]
+}
